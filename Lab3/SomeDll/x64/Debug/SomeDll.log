@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Artem\Desktop\ОСиСП\lab3\MainSolution\SomeDll\Source.cpp(66,29): warning C4101:  e: неиспользованная локальная переменная
+     Создается библиотека C:\Users\Artem\Desktop\ОСиСП\lab3\MainSolution\x64\Debug\SomeDll.lib и объект C:\Users\Artem\Desktop\ОСиСП\lab3\MainSolution\x64\Debug\SomeDll.exp
+  SomeDll.vcxproj -> C:\Users\Artem\Desktop\ОСиСП\lab3\MainSolution\x64\Debug\SomeDll.dll
